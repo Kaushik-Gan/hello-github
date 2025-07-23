@@ -1,2 +1,2 @@
-print('Hello from GitHub!')
-print('This is the seond version ....')
+print("Hello from GitHub!")
+print("Welcome to version control with Git.")
